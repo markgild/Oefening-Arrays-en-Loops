@@ -12,7 +12,7 @@ const passagiers = [
         saldo: 18,
         woonplaats: "Maastricht"
     }
-]
+];
 
 // Nieuwe passagier toevoegen
 passagiers.push({
